@@ -10,23 +10,38 @@
     <title> OblivionCreator </title>
 </head>
 <!--Da532 was here!!-->
-<body>
+<body onload=randmsg()>
     <header class="nav header">
     <div class=nav-left>
         <a class=nav-item href=index.html style="color: white;">OblivionCreator</a>
     </div>
 	
     </header>
+	
+	        <script type="text/javascript">
+        
+function randmsg(){
 
-    <section class="hero is-primary is-fullheight" style="background-image: url('img/OCBackground.png'); background-size: cover; color: white ;">
+var phrases = ["Projects & Stuff", "Red-y or not!", "Behold, the spaghetti monster!", "Code goes here.", "@OblivionCreator", "Written in COMMODORE BASIC", "Somebody once told me...", "Bliv is Best!", "Youtube.Red was taken.", "<p style=\"color:blue\"><u><i><a href=\"https://www.youtube.com/watch?v=8VLHErKsD0k\">Your Power</a></u></i></p	>"];
+var upper = phrases.length;
+var screen = document.getElementById("output");
+
+
+var r = Math.floor(Math.random()*upper);
+output.innerHTML = phrases[r];
+
+}
+        </script>
+
+    <section class="hero is-primary is-fullheight" style="background-image: url('img/OCBackground.png'); background-size: cover; color: white ; padding-top:7%;">
         <div class= "container has-text-centered">
             <br>
             <br>
             <img src=img/rev2.png style="width: 400px; border-radius: 100%; border: 5px solid #fff;" >
             <br>
             <br>
-            <div class="box small">
-                <h2 style="color: black;"> Projects & Stuff. </h2>
+            <div class="small">
+                <h2 style="color: white;"> <div id=output></div> </h2>
             </div>
              <br>
              <br>
