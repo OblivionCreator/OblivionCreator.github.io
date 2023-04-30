@@ -1,0 +1,20 @@
+1 - Die. If this is rolled in response to an incoming death, prevent the death instead.
+2 - Warthog Grenade! End the active players' turn and start your turn. (This does not affect turn order, meaning multiple turns can be skipped)
+3 - Shop Refund - Gain 20c 
+4 - Minecraft Chest - Loot 5 OR Gain 1 Treasure
+5 - Cluster Grenade! Roll 5 More D20s and apply their affects. If one of those D20s rolls this effect again, die.
+6 - Sgt. Johnson's Guarantee - Delay your death until the end of your next turn. 
+7 - Would I Lie to You? - Tell a story on the spot. Players must guess if you are telling the truth or a lie. If the majority of players guess wrong, you may steal 1 Item from each player. If they guess correctly, each player may steal 1 item from you (In turn order). - If your story is voted to be boring/lame, you die, instead.
+8 - Gain +1ATK Until End of Turn
+9 - Curses! Apply a random curse to a player of your choice.
+10 - Huge Boom! Target monster or player loses 5HP. You lose 2HP.
+11 - Big Mac - Heal 1HP
+12 - Bomb! You lose 2HP and adjacent players each lose 1HP.
+13 - Blunderbuss - This item becomes a trinket with the ability '+2ATK, -1HP' (If your Max HP is 1, re-roll.)
+14 - +1 HP Until End of Turn
+15 - Set all Players on Fire
+16 - Tool Gun! - Permanently remove an item or mechanic from play. If the removal of your chosen item or mechanic is deemed to make the game unplayable, this effect fizzles and instead you die.
+17 - Enemy Swarm! - Temporarily increase monster deck to 6 Slots (covering any existing monsters if able.). The active player must attack as many times as able this turn.
+18 - Item Overflow - Every player on the table gets 10x their current coin total.
+19 - Stolen Goods - Steal a SOUL from another player and then raffle it away to the highest bidder. You may not enter in the raffle.
+20 - Thanos Cock - End your turn immediately and blindfold yourself until the start of your next turn.
